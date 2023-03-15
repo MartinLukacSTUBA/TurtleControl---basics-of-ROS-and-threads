@@ -1,4 +1,4 @@
-"# TurtleControl---basics-of-ROS-and-threads" 
+# TurtleControl---basics-of-ROS-and-threads
 
 
 Náplňou zadanie bude pochopiť základnú funkcionalitu a architektúru Robotického
