@@ -1,0 +1,13 @@
+
+Potrebne
+
+Linux
+ROS
+Moveit 
+sudo apt install python3-wstool
+sudo apt-get install ros-noetic-rviz-visual-tools
+
+cd catkin_ws
+
+roslaunch src/spustenie/launch/spustenie.launch
+ - spustaci prikaz nasledne podla referencii

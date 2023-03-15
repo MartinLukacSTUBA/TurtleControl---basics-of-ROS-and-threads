@@ -1,0 +1,22 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "Local Machine": [
+      "out\\build\\x64-Debug",
+      "out\\install\\x64-Debug"
+    ]
+  },
+  "ExpandedNodes": [
+    "",
+    "\\.idea",
+    "\\cmake-build-debug",
+    "\\cmake-build-debug\\CMakeFiles",
+    "\\config",
+    "\\include",
+    "\\include\\rrm_cv1_lukac",
+    "\\out",
+    "\\out\\build",
+    "\\srv"
+  ],
+  "SelectedNode": "\\cmake-build-debug\\CMakeFiles",
+  "PreviewInSolutionExplorer": false
+}
